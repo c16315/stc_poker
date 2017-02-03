@@ -5,8 +5,8 @@
  */
 
 /**
- *
- * @author c16315
+ *@author c16315
+ * 人間のplayerクラス
  */
 public class Human extends Player{
     public Human(String name){
