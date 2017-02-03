@@ -5,8 +5,8 @@
  */
 
 /**
- *
- * @author c16315
+ *@author c16315
+ * コンピュータ用のplayer
  */
 public class Cpu extends Player{
     public Cpu(String name){
